@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lippi-浮生志</title>
+  <title>Sarah&#39;s Blog</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.ezlippi.com/"/>
+  <link href="http://sarahpan.github.io/"/>
   <updated>2017-01-14T20:56:50.000Z</updated>
-  <id>http://www.ezlippi.com/</id>
+  <id>http://sarahpan.github.io/</id>
   
   <author>
-    <name>EZLippi</name>
+    <name>Sarah Pan</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.ezlippi.com//blog/2017/01/hello-world.html"/>
-    <id>http://www.ezlippi.com//blog/2017/01/hello-world.html</id>
+    <link href="http://sarahpan.github.io//blog/2017/01/hello-world.html"/>
+    <id>http://sarahpan.github.io//blog/2017/01/hello-world.html</id>
     <published>2017-01-14T20:56:50.000Z</published>
     <updated>2017-01-14T20:56:50.000Z</updated>
     
