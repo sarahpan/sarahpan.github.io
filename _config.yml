@@ -69,5 +69,5 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:sarahpan/sarahpan.github.io.git
+  repository: git@github.com-sarah:sarahpan/sarahpan.github.io.git
   branch: master
